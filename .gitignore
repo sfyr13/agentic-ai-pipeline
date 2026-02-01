@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Chroma local vector store
+chroma_rag_demo/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# OS / Editor
+.DS_Store
+.vscode/
