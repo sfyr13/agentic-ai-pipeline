@@ -4,6 +4,12 @@
 # Chroma local vector store
 chroma_rag_demo/
 
+# Chroma local persistence
+chroma_rag_db/
+**/chroma_rag_db/
+*.sqlite3
+*.db
+
 # Python cache
 __pycache__/
 *.pyc
